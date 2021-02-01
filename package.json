@@ -1,0 +1,16 @@
+{
+  "name": "qrcodee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.4.4",
+    "read-excel-file": "^5.0.0",
+    "xlsx": "^0.16.9"
+  }
+}
